@@ -120,16 +120,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'San Diego State University',
+      degree: 'Masters in Big Data Analytics',
+      from: 'Aug 2022',
+      to: 'May 2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Pune',
+      degree: 'Bachelors in Computer Science',
+      from: 'Aug 2016',
+      to: 'May 2020',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
