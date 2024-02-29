@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Piyush Jadhav',
-    description: '',
+    description: 'scsf',
     imageURL: '',
   },
   social: {
@@ -65,8 +65,8 @@ const CONFIG = {
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
