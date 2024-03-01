@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Covid Data Analysis with ArcGIS Insights',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'The first workbook depicts the case rate per 100k for each state in US along with the death rate and total cases. The second workbook shows us the trends over 5 states in the form of boxplot, linegraph and bar graph. ',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/Insights.png',
+          link: 'https://insights.arcgis.com/#/view/95e848acda2246fcb4d7b5635c416eef',
         },
         {
           title: 'Analysis of Twitter Data in ArcGIS',
