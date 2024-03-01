@@ -48,6 +48,22 @@ const CONFIG = {
             'https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png?20210321190132',
           link: 'https://sdsugeo.maps.arcgis.com/apps/mapviewer/index.html?layers=22f665bf2db94b75aa5c1c2953099c2c',
         },
+        {
+          title: 'US Homelessness Predictive Factors using Machine Learning',
+          description:
+            'In this project we define what are the different factors that results in the homelessness in the US. For more information please visit our website.',
+          imageUrl:
+            'https://lh5.googleusercontent.com/uuw5Jcbx5X9YwYbcz0fjoa04NAKjO827mxvrEZdCl2DolwOLNGHHEIqOFXkL0UcpiAPmFDir0DQdOmE5oYV8A7o=w16383',
+          link: 'https://sites.google.com/sdsu.edu/sdsu-dataholics-homelessness/',
+        },
+        {
+          title: 'Published Paper on Automatic Text Summarization',
+          description:
+            'This paper gives you a review on automatic text summarization. In this paper we have discussed about various automatic text summarizers and their algorithms. For more information visit the website.',
+          imageUrl:
+            'http://sersc.org/journals/images/cover_page/ijgdc.jpg',
+          link: 'http://sersc.org/journals/index.php/IJGDC/article/view/30498',
+        },
       ],
     },
   },
@@ -110,14 +126,14 @@ const CONFIG = {
       companyLink: '',
     },
   ],
-  certifications: [
-    {
-      name: '',
-      body: '',
-      year: '',
-      link: '',
-    },
-  ],
+  // certifications: [
+  //   {
+  //     name: '',
+  //     body: '',
+  //     year: '',
+  //     link: '',
+  //   },
+  // ],
   educations: [
     {
       institution: 'San Diego State University',
