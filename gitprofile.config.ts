@@ -12,6 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     external: {
+      display: true,
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
