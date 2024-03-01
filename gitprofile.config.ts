@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'This paper gives you a review on automatic text summarization. In this paper we have discussed about various automatic text summarizers and their algorithms. For more information visit the website.',
           imageUrl:
-            'http://sersc.org/journals/images/cover_page/ijgdc.jpg',
+            'http://sersc.org/journals/images/sersc.png',
           link: 'http://sersc.org/journals/index.php/IJGDC/article/view/30498',
         },
       ],
