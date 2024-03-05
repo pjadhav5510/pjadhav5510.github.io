@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'In this project we define what are the different factors that results in the homelessness in the US. For more information please visit our website.',
           imageUrl:
-            'https://lh5.googleusercontent.com/uuw5Jcbx5X9YwYbcz0fjoa04NAKjO827mxvrEZdCl2DolwOLNGHHEIqOFXkL0UcpiAPmFDir0DQdOmE5oYV8A7o=w16383',
+            'public/homeless.png',
           link: 'https://sites.google.com/sdsu.edu/sdsu-dataholics-homelessness/',
         },
         {
