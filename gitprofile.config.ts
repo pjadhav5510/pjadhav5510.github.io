@@ -64,7 +64,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['pjadhav5510/Fashion-Recommendation-using-images-as-features', 'pjadhav5510/Electric-vehicle-market-size','pjadhav5510/Leetcode-Solutions','pjadhav5510/Health-Data-Analysis','pjadhav5510/Finance-Data-Analysis'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['pjadhav5510/Fashion-Recommendation-using-images-as-features', 'pjadhav5510/Electric-vehicle-market-size','pjadhav5510/Leetcode-Solutions','pjadhav5510/Health-Data-Analysis','pjadhav5510/Finance-Data-Analysis','pjadhav5510/Sentimental-Analysis','pjadhav5510/Text-Summarizer'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },    
   },
