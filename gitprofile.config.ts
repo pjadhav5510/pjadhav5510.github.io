@@ -119,9 +119,9 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'STAR Labs San Diego State University',
+      company: 'San Diego State University',
       position: 'Graduate Research Assistant',
-      from: 'Jan 2023',
+      from: 'May 2023',
       to: 'Present',
       companyLink: '',
     },
@@ -130,6 +130,13 @@ const CONFIG = {
       position: 'Machine Learning Engineer',
       from: 'March 2021',
       to: 'August 2022',
+      companyLink: '',
+    },
+    {
+      company: 'Analytics Quotient',
+      position: 'Machine Learning Engineer intern',
+      from: 'June 2020',
+      to: 'November 2020',
       companyLink: '',
     },
   ],
