@@ -126,7 +126,7 @@ const CONFIG = {
       companyLink: '',
     },
     {
-      company: 'FIS Global',
+      company: 'FIS',
       position: 'Machine Learning Engineer',
       from: 'March 2021',
       to: 'August 2022',
