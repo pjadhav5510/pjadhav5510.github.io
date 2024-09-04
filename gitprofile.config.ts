@@ -121,20 +121,20 @@ const CONFIG = {
     {
       company: 'San Diego State University',
       position: 'Graduate Research Assistant',
-      from: 'May 2023',
+      from: 'Feb 2023',
       to: 'Present',
       companyLink: '',
     },
     {
       company: 'FIS',
-      position: 'Machine Learning Engineer',
+      position: 'Data Scientist',
       from: 'March 2021',
       to: 'August 2022',
       companyLink: '',
     },
     {
       company: 'Analytics Quotient',
-      position: 'Machine Learning Engineer intern',
+      position: 'Data Science intern',
       from: 'June 2020',
       to: 'November 2020',
       companyLink: '',
