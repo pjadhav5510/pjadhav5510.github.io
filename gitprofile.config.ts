@@ -89,7 +89,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'pjadhav5510@sdsu.edu',
+    email: 'jpiyush336@gmail.com',
   },
   resume: {
     fileUrl:
