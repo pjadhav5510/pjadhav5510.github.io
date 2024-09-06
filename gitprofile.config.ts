@@ -133,10 +133,17 @@ const CONFIG = {
       companyLink: '',
     },
     {
-      company: 'Opportune',
+      company: 'Analytics Quotient',
       position: 'Data Science intern',
       from: 'June 2020',
       to: 'November 2020',
+      companyLink: '',
+    },
+    {
+      company: 'Opportune',
+      position: 'Data Analyst intern',
+      from: 'June 2019',
+      to: 'December 2019',
       companyLink: '',
     },
   ],
