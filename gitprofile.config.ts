@@ -120,7 +120,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'San Diego State University',
-      position: 'Graduate Research Assistant',
+      position: 'Data Scientist',
       from: 'Feb 2023',
       to: 'Present',
       companyLink: '',
